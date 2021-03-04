@@ -1,12 +1,10 @@
-# AnimeSoftware
+# AnimeSoftware - Remaked
 CSGO External hack written in C# for griefing.
 
 ### Information
 This is not a hack in the typical sense.  It is not intended to dominate opponents, but to grief teammates.  
-A few pastes was taken from [Darc Euphoria from DarcPhansea](https://github.com/DarcPhansea/Darc-Euphoria) and [ExternalCSGO from B3akers](https://github.com/B3akers/ExternalCSGO).   
   
 I recommend using this hack in conjunction with some kind of internal hack that can change names (via namestealer or fakevote), because they remove the cooldown and the message about the nickname change. Don't use FakeFF without namechanger exploit.
-  
 
 ### Features
 - BlockBot. (includes runboost bot from old version. [showcase1](https://www.youtube.com/watch?v=-pw8PNrEU8Q "showcase1") [showcase2](https://www.youtube.com/watch?v=ODWALQlLVbY "showcase2"))
